@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Patrick - most people call me Pat
+- I'm a former investment analyst in small cap stocks
+  
+- Now I'm learning programming because that life put me to sleep
 
 - ⚡ Fun fact: I can do a yoga headstand
 
