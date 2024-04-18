@@ -5,6 +5,24 @@
 
 - ⚡ Fun fact: I can do a yoga headstand
 
+Technical Skills:
+
+- Programming Languages: Python, SQL, R, Bash
+- Data Visualization Tools: Tableau, Matplotlib, Seaborn
+- Machine Learning Frameworks: scikit-learn, TensorFlow, PyTorch
+- Big Data Technologies: AWS, Hadoop, Spark
+- Database Management: MySQL, PostgreSQL
+- Development Tools: Git, Docker, Jupyter Notebooks
+
+Core Competencies:
+
+- Data Analysis and Interpretation
+- Predictive Modelling and Statistical Analysis
+- Financial Analysis and Modelling
+- Business Intelligence and Dashboard Creation
+- Machine Learning and AI Application
+- Problem Solving and Strategic Decision Making
+
 - LinkedIn: https://www.linkedin.com/in/patbsmith/
 
 <!---
